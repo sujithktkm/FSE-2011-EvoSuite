@@ -11,4 +11,4 @@ Here is the link to the Original [Project Page](http://www.evosuite.org/)
 
 :white_check_mark: [The original tool](http://www.evosuite.org/files/evosuite-1.0.1.jar) (available) 
 
-This repository was constructed by Shabbir Abdul under the supervision of Dr. Emerson Murphy-Hill. Thanks to Gordon Fraser and Andrea Arcuri for their help in establishing this repository.
+This repository was constructed by [Shabbir Abdul](https://github.com/shabbirabdul) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Gordon Fraser and Andrea Arcuri for their help in establishing this repository.
