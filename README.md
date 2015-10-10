@@ -7,6 +7,7 @@ The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm
 This repository is not the original repository for this tool. Here are some links to the original project:
 
 + [The Official Project Page, not including source code](www.evosuite.org)
++ [The Official Tool Download Page](http://www.evosuite.org/downloads/)
 - [A Video of the Tool](https://www.youtube.com/watch?v=R0K6VGhqbqg)
 
 In this repository, for EvoSuite you will find:
